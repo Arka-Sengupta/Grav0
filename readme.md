@@ -4,6 +4,7 @@
 
 The project uses a pure CPU Leapfrog integrator for high-fidelity physics calculations and offloads heavy visual grid mathematical displacements directly to your GPU via WebGL using raw GLSL fragment and vertex shaders.
 
+![grav0 preview](public/screenshot.png)
 ##  Features
 
 - **N-Body Leapfrog Physics Engine**: A powerful integration algorithm simulating interacting stars, planets, and black holes natively on the main thread CPU.
