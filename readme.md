@@ -55,8 +55,9 @@ Grav0 operates completely within the browser.
 ```
 
 ##  Running the Simulator
-
-To easily launch Grav0 on your local machine:
+You can use it using the link
+https://grav0.netlify.app/
+or if you wanna install locally:
 1. Ensure you have **Node.js** installed locally.
 2. In the folder terminal run:
    ```bash
